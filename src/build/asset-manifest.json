@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.e8470962.chunk.css",
+    "main.js": "/static/js/main.9b1540a8.chunk.js",
+    "main.js.map": "/static/js/main.9b1540a8.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.a4a20bc2.js",
+    "runtime-main.js.map": "/static/js/runtime-main.a4a20bc2.js.map",
+    "static/css/2.e9478c6c.chunk.css": "/static/css/2.e9478c6c.chunk.css",
+    "static/js/2.1ee46d15.chunk.js": "/static/js/2.1ee46d15.chunk.js",
+    "static/js/2.1ee46d15.chunk.js.map": "/static/js/2.1ee46d15.chunk.js.map",
+    "static/js/3.10929797.chunk.js": "/static/js/3.10929797.chunk.js",
+    "static/js/3.10929797.chunk.js.map": "/static/js/3.10929797.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.e9478c6c.chunk.css.map": "/static/css/2.e9478c6c.chunk.css.map",
+    "static/css/main.e8470962.chunk.css.map": "/static/css/main.e8470962.chunk.css.map",
+    "static/js/2.1ee46d15.chunk.js.LICENSE.txt": "/static/js/2.1ee46d15.chunk.js.LICENSE.txt",
+    "static/media/Hero.css": "/static/media/image1.0ba17c9f.jpg",
+    "static/media/Ctarea.css": "/static/media/image2.da55a344.jpg",
+    "static/media/logo.17a56f2a.png": "/static/media/logo.17a56f2a.png",
+    "static/media/logo.6ce24c58.svg": "/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a4a20bc2.js",
+    "static/css/2.e9478c6c.chunk.css",
+    "static/js/2.1ee46d15.chunk.js",
+    "static/css/main.e8470962.chunk.css",
+    "static/js/main.9b1540a8.chunk.js"
+  ]
+}
